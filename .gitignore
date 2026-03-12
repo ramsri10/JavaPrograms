@@ -1,0 +1,27 @@
+# Maven and build-related folders
+/target/
+/build/
+/.mvn/
+
+# IDE/project settings
+/.settings/
+/*.iml
+/.idea/ 
+
+# Test results and reports
+/allure-results/
+/test-output/
+/screenshots/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: ignore compiled Java classes (already inside target/)
+*.class
+
+# Optional: ignore generated sources if any
+/generated-sources/
